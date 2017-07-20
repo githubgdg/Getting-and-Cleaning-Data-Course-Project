@@ -29,7 +29,7 @@ You should create one R script called run_analysis.R that does the following:
    run_analysis.R uses libraries data.table and reshape2
 
 ## To run run_analysis.R in R :
-   In R window, click on File menu, choose "Source R COde", then choose run_analysis.R from your machine or use source().
+   In R window, click on File menu, choose "Source R Code", then choose run_analysis.R from your machine or use source().
    Choose Secure CRAN Mirrors when asked.
    
 ## File Name from requirement #5 :
