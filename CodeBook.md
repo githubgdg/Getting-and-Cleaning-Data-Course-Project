@@ -121,7 +121,13 @@ for more details.
 
 ## Output :
 
-**File Data Set :**  ***tidy_file.txt***
-
 All the values are means, aggregated over 30 subjects and 6 activities, resulting into a data set with 180 rows 
 and 68 columns.
+
+**File Data Set :**  
+***tidy_file.txt*** is the file created for testing purposes only, it will have 180 rows and 68 columns.
+
+***tidy_file_submit.txt*** is the file created for submission to the course project, 
+      it will have 180 rows and 1 column (includes all 68 variables).
+      
+      *Assigment's requirement:*  Please upload your data set as a txt file created with write.table() using row.name=FALSE.
