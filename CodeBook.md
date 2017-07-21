@@ -67,6 +67,32 @@ for more details.
    3. "UCI HAR Dataset" will be created in "get_clean_project" when zip file is unzipped.
 
 
+## Identifiers :
+
+subject - The ID of the test subject
+activity - The type of activity performed when the corresponding measurements were taken
+
+## Measurements :
+
+All measurements only includes mean(): Mean value and std(): Standard deviation :
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
 ## Variables :
 
 - fileUrl : stores source file's url.
