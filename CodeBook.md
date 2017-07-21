@@ -74,7 +74,7 @@ activity - The type of activity performed when the corresponding measurements we
 
 ## Measurements :
 
-All measurements only includes mean(): Mean value and std(): Standard deviation :
+All measurements only includes mean() for Mean value and std() for Standard deviation :
 tBodyAcc-XYZ
 tGravityAcc-XYZ
 tBodyAccJerk-XYZ
