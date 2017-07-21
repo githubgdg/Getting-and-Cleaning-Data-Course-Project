@@ -69,8 +69,9 @@ for more details.
 
 ## Identifiers :
 
-subject - The ID of the test subject
-activity - The name of activity performed when the corresponding measurements were taken
+- subject is the ID of the test subject.
+- activity is the name of activity performed when the corresponding measurements were taken.
+
 
 ## Measurements :
 
